@@ -1,2 +1,3 @@
 # student-demo
-my first repo
+my first repository
+author-King of the Jungle
